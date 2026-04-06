@@ -1,6 +1,6 @@
 # Bill Anderson - Data Governance Specialist
 
-[A one-page printable version of this CV is available here.](../assets/bill-anderson-cv.pdf)
+[A one-page printable version of this CV is available here.](assets/bill-anderson-cv.pdf)
 
 ## PROFESSIONAL SUMMARY
 
