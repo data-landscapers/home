@@ -10,7 +10,7 @@ I am an experienced systems architect with expertise in the politics, administra
 
 ### Digital transformation
 
-* As the author of [*“Digital compacts: gobal ideals, regional realities”*](https://nonagon-hen-bhgg.squarespace.com/s/Digital_Compacts_Global_ideals_regional_realities.pdf) I have conducted extensive [research](https://www.zotero.org/groups/5619020/global_data_governance) on the current status of digital transformation in Africa. I have a particular interest in issues of data sovereignty, data localisation and cross-border data flows within Africa. I have been the technical lead on programmes in East Africa that partner with local governments to deploy appropriate technologies to deliver paragmatic digital solutions.
+* As the author of <a href="../assets/di-digital-compacts.pdf" target="_blank" rel="noopener noreferrer">*“Digital compacts: global ideals, regional realities”*</a> I have conducted extensive [research](https://www.zotero.org/groups/5619020/global_data_governance) on the current status of digital transformation in Africa. I have a particular interest in issues of data sovereignty, data localisation and cross-border data flows within Africa. I have been the technical lead on programmes in East Africa that partner with local governments to deploy appropriate technologies to deliver paragmatic digital solutions.
 
 ### Data governance
 
@@ -34,7 +34,8 @@ I am an experienced systems architect with expertise in the politics, administra
 
 ## WORK HISTORY
 
-### Data governance advisor Freelance 11/2024 -
+### Data governance advisor  
+*Freelance : 11/2024 -*
 
 * **Nepal 11/2024 - 02/2025**  
 Sub-contracted by YoungInnovations Pvt Ltd for an **"Assessment of the Provincial Planning Data Ecosystem in Nepal**". Advised on data landscaping methodologies and the development of a data maturity model.
@@ -43,7 +44,8 @@ Developed a [trial methodology](https://www.linkedin.com/pulse/exercise-using-la
 * **West Africa 06/2025 - 08/2025**  
 Sub-contracted to work with a team of consultants on a study for MRC Unit The Gambia at LSHTM “**Reviewing the feasibility of establishing a Pan African Data Sharing Platform.**”
 
-### Data ecosystems lead Development Initiatives 01/2018 - 10/2024
+### Data ecosystems lead   
+*Development Initiatives : 01/2018 - 10/2024*
 
 * [Development Initiatives](https://devinit.github.io/what-we-do/) (DI) was a leading international development organisation that went into [liquidation](https://devinit.github.io/) in October 2024.
 * Developed a data landscaping methodology to assess national data infrastructures and national and sectoral data strategies.
@@ -55,24 +57,28 @@ Sub-contracted to work with a team of consultants on a study for MRC Unit The Ga
 * Author of a number of studies on global data governance, most recently on the Global and African Digital Compacts.
 * Supported the appropriate introduction of natural language processing and data modelling across all DI programmes.
 
-### Data standards advisor Development Initiatives 03/2010 - 12/2017
+### Data standards advisor  
+*Development Initiatives : 03/2010 - 12/2017*
 
 * Technical Lead of the [International Aid Transparency Initiative](https://iatistandard.org/en/) responsible for the development of the data standard.
 * Content Lead on the [Joined-up Data Standards](https://www.publishwhatyoufund.org/projects/joined-up-data-standards/) programme that led to the inclusion of the principle of interoperability in the [Open Data Charter](https://opendatacharter.org/) and to the creation of the [Data Interoperability Collaborative](https://www.data4sdgs.org/initiatives/data-interoperability-collaborative).
 * Led work with UN, governments and NGOs bridging the divide between official statistics and non-official data.
 * Co-drafter of the [Africa Data Consensus](https://www.cgdev.org/sites/default/files/Africa-Data-Consensus.pdf), a forerunner of current African Union data policies.
 
-### Information systems specialist Self-employed 01/2004 - 02/2010
+### Information systems specialist  
+*Self-employed : 01/2004 - 02/2010*
 
 * Consultancies in Botswana for the Ministry of Finance and the National Aids Coordinating Agency.
 * Study of the African open data landscape for mySociety
 * Managing director of African Development Information Services which developed an online database on Who's Who in African development
 
-### Lead developer and MD MasterLink Management 01/1994 - 12/2003
+### Lead developer and MD  
+*MasterLink Management : 01/1994 - 12/2003*
 
 * Managing director of a software house delivering electronic data interchange and middleware for supply chain logistics.
 
-### Intelligence Analyst African National Congress 01/1977 - 12/1990
+### Intelligence Analyst    
+*African National Congress : 01/1977 - 12/1990*
 
 * Specialist on the deployment of the South African armed forces. Head of data processing group in military headquarters.
 
