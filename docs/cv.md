@@ -10,7 +10,7 @@ I am an experienced systems architect with expertise in the politics, administra
 
 ### Digital transformation
 
-* As the author of <a href="../assets/di-digital-compacts.pdf" target="_blank" rel="noopener noreferrer">*“Digital compacts: global ideals, regional realities”*</a> I have conducted extensive [research](https://www.zotero.org/groups/5619020/global_data_governance) on the current status of digital transformation in Africa. I have a particular interest in issues of data sovereignty, data localisation and cross-border data flows within Africa. I have been the technical lead on programmes in East Africa that partner with local governments to deploy appropriate technologies to deliver paragmatic digital solutions.
+* As the author of <a href="../assets/di-digital-compacts.pdf" target="_blank" rel="noopener noreferrer">*“Digital compacts: global ideals, regional realities”*</a> I have conducted extensive research on the current status of digital transformation in Africa. I have a particular interest in issues of data sovereignty, data localisation and cross-border data flows within Africa. I have been the technical lead on programmes in East Africa that partner with local governments to deploy appropriate technologies to deliver paragmatic digital solutions.
 
 ### Data governance
 
