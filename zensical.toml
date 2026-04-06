@@ -47,8 +47,7 @@ Copyright &copy; 2026 The authors
 nav = [
    { "Home" = "index.md" },
    { "Open Source Intelligence" = "osint.md" },
-   ( "Work in Progress" = "wip.md" }
-
+   { "Work in Progress" = "wip.md" },
    { "CV" = "cv.md" },
    { "Markdown reference" = "markdown.md" },
  ]
